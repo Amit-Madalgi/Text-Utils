@@ -1,0 +1,4 @@
+/* Changed the color of accordion arrows */
+.accordion-button::after {
+    filter: invert(1);
+}
