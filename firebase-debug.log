@@ -1,0 +1,38 @@
+[debug] [2024-10-09T14:48:28.818Z] ----------------------------------------------------------------------
+[debug] [2024-10-09T14:48:28.822Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Asus\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2024-10-09T14:48:28.822Z] CLI Version:   13.22.0
+[debug] [2024-10-09T14:48:28.822Z] Platform:      win32
+[debug] [2024-10-09T14:48:28.822Z] Node Version:  v20.12.2
+[debug] [2024-10-09T14:48:28.822Z] Time:          Wed Oct 09 2024 20:18:28 GMT+0530 (India Standard Time)
+[debug] [2024-10-09T14:48:28.823Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-10-09T14:48:28.830Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-10-09T14:48:28.830Z] > authorizing via signed-in user (amitmadalgi412@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\React JS Tutorial\textutils
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2024-10-09T14:49:18.230Z] Checked if tokens are valid: true, expires at: 1728488691994
+[debug] [2024-10-09T14:49:18.230Z] Checked if tokens are valid: true, expires at: 1728488691994
+[debug] [2024-10-09T14:49:18.232Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects pageSize=100
+[debug] [2024-10-09T14:49:18.301Z] *** [apiv2] error from fetch(https://firebase.googleapis.com/v1beta1/projects?pageSize=100, {"headers":{},"method":"GET","signal":{}}): FetchError: request to https://firebase.googleapis.com/v1beta1/projects?pageSize=100 failed, reason: getaddrinfo ENOTFOUND firebase.googleapis.com
+[debug] [2024-10-09T14:49:18.302Z] Failed to make request to https://firebase.googleapis.com/v1beta1/projects?pageSize=100
+[debug] [2024-10-09T14:49:18.308Z] FirebaseError: Failed to make request to https://firebase.googleapis.com/v1beta1/projects?pageSize=100
+    at RetryOperation._fn (C:\Users\Asus\AppData\Roaming\npm\node_modules\firebase-tools\lib\apiv2.js:261:31)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[error] 
+[error] Error: Failed to list Firebase projects. See firebase-debug.log for more info.
