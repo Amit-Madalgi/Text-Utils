@@ -56,7 +56,7 @@ function App() {
   }
   return (
      <>
-      <BrowserRouter> {/* Compulsory Required */}
+      <BrowserRouter basename='Text-Utils'> {/* Compulsory Required */}
       {/*Whatever components is outside <Routes> tag will not change after routing*/}
       <Navbar title="TextUtils" mode={mode} toggleMode={toggleMode}/>
       <Alert alert={alert}/>
