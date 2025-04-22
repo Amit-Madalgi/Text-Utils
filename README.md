@@ -26,6 +26,6 @@ https://amit-madalgi.github.io/Text-Utils/
 ---
 
 ## 📸 Screenshots
-![Text-Utils LightMode](assets/light_mode_ss.png)
-![Text-Utils DarkMode](assets/dark_mode_ss.png)
+![Text-Utils Screenshots](assets/light_mode_ss.png)
+![Text-Utils Screenshots](assets/dark_mode_ss.png)
 
