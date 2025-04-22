@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Amit-Madalgi/Text-Utils/static/css/main.2890232c.css",
-    "main.js": "/Amit-Madalgi/Text-Utils/static/js/main.9fbfe99c.js",
-    "static/js/453.02b6ed6f.chunk.js": "/Amit-Madalgi/Text-Utils/static/js/453.02b6ed6f.chunk.js",
-    "index.html": "/Amit-Madalgi/Text-Utils/index.html",
-    "main.2890232c.css.map": "/Amit-Madalgi/Text-Utils/static/css/main.2890232c.css.map",
-    "main.9fbfe99c.js.map": "/Amit-Madalgi/Text-Utils/static/js/main.9fbfe99c.js.map",
-    "453.02b6ed6f.chunk.js.map": "/Amit-Madalgi/Text-Utils/static/js/453.02b6ed6f.chunk.js.map"
+    "main.css": "/Amit-Madalgi/Text-Utils.git/static/css/main.2890232c.css",
+    "main.js": "/Amit-Madalgi/Text-Utils.git/static/js/main.30bfb2cd.js",
+    "static/js/453.02b6ed6f.chunk.js": "/Amit-Madalgi/Text-Utils.git/static/js/453.02b6ed6f.chunk.js",
+    "index.html": "/Amit-Madalgi/Text-Utils.git/index.html",
+    "main.2890232c.css.map": "/Amit-Madalgi/Text-Utils.git/static/css/main.2890232c.css.map",
+    "main.30bfb2cd.js.map": "/Amit-Madalgi/Text-Utils.git/static/js/main.30bfb2cd.js.map",
+    "453.02b6ed6f.chunk.js.map": "/Amit-Madalgi/Text-Utils.git/static/js/453.02b6ed6f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2890232c.css",
-    "static/js/main.9fbfe99c.js"
+    "static/js/main.30bfb2cd.js"
   ]
 }
